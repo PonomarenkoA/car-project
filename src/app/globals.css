@@ -1,0 +1,26 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+ul {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+.page {
+	display: flex;
+	align-items: flex-start;
+	padding: 44px 190px 0;
+	gap: 20px;
+}
+
+.content {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+	width: 100%;
+}
